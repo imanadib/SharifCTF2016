@@ -1,2 +1,2 @@
 # SharifCTF2016
-Write-ups for SharifCTF2016 contests
+Write-ups for SharifCTF2016 contest
